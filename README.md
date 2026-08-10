@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=190&section=header&text=Karthick%20Arumugam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=18" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Software+Engineer;AI+%2F+ML+Enthusiast;Building+Scalable+Web+%26+Mobile+Products;React+%7C+Node.js+%7C+Flutter+%7C+PHP;Engineering+Systems+That+Solve+Real+Problems" alt="Typing SVG" />
 </p>
 
