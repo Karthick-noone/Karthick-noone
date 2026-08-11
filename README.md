@@ -35,7 +35,7 @@
 
 # About Me
 
-I'm a **Full Stack Developer** with 1–3 years of hands-on experience building production-oriented web, mobile, and business applications.
+I'm a **Full Stack Developer** with 3 years of hands-on experience building production-oriented web, mobile, and business applications.
 
 My engineering focus is on designing applications that are **maintainable, secure, scalable, and practical** rather than simply making features work.
 
