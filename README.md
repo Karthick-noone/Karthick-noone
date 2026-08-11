@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/M.E%20Computer%20Science%20and%20Engineering-Software%20Development-6366F1?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Experience--3%20Years-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Experience%203%20Years-8B5CF6?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-7C3AED?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=white" />
 </p>
 
